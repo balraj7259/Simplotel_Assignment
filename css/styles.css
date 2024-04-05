@@ -27,7 +27,7 @@ nav {
 .nav-list {
   list-style: none;
   margin: 0;
-  padding: 0 30px;
+  padding: 0 110px;
   display: flex;
 }
 
@@ -55,6 +55,7 @@ nav {
 .nav-list a:hover {
   background-color: #ddd;
 }
+
 
 .hamburger {
   display: none;
@@ -222,13 +223,14 @@ nav {
 }
 
 .image-1 {
-  width: 100%;
+  width: 175%;
   margin-bottom: 10px;
   height: 200px;
 }
 
 .bottom-section-height-image {
-  width: 50%;
+  width: 38%;
+  margin-left: 100px;
 }
 
 .bottom-section-text-container {
@@ -313,3 +315,5 @@ nav {
       margin-top: 20px;
   }
 }
+
+
